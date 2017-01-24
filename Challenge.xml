@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client>
+<contact id="0">
+    <name>TanmaZ Patil</name> 
+    <company>TutorialsPoint</company> 
+    <phone>(011) 123-4567</phone> 
+</contact>
+<contact id="1"> 
+    <name>Jean Bond</name> 
+    <company>SAS</company> 
+    <phone>+33 5467 76778</phone> 
+</contact>
+<contact id="2"> 
+    <name>Dr No</name> 
+    <company>Octopussy</company> 
+    <phone>+33 6646 97987</phone> 
+</contact>
+<contact id="3"> 
+    <name>Jaws</name> 
+    <company>Goldfinger</company> 
+    <phone>+33 6646 97987</phone> 
+    </contact>
+<contact id="4"> 
+    <name>Q</name> 
+    <company>Skyfall</company> 
+    <phone>+33 6646 97987</phone> 
+</contact>
+</client>
+
